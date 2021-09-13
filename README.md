@@ -1,2 +1,1 @@
-# elytica-improvement-proposals
-elytica Improvement proposals
+# elytica Improvement Proposals
